@@ -16,7 +16,7 @@ Seaborn
 Scikit-learn
 Model Architecture:
 
-A feed-forward neural network with [specify number of layers, neurons per layer, activation functions, etc.]
+A feed-forward neural network 
 Loss function: Binary Cross-Entropy
 Optimizer: Adam
 Steps Involved:
